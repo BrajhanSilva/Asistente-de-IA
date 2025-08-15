@@ -9,9 +9,7 @@ front
 ---
 
 ##  Descripción de proyecto 
-Breve descripción del proyecto aquí.
-
----
+Tu asistente inteligente para  tecnología, informacion y educación
 
 ##  Demo
 
