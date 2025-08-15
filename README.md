@@ -1,7 +1,7 @@
 # Asistente-de-IA
 front
 
-# [NOMBRE_PROYECTO]
+# [GloSenIA]
 
 ## 🖼 Avatar
 ![Avatar](/assets/avatar.png)
